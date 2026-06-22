@@ -82,9 +82,7 @@ header{
 
 
 
-.twitter  { 
-    background: #55acee; 
-}
+
     
 .linkedin { 
     background: #0077b5; 
@@ -95,9 +93,7 @@ header{
     text-align: center;
 }
 
-.twitter:hover{
-    transform: scale(1.2);
-}
+
 
 .linkedin:hover{
     transform: scale(1.2);
