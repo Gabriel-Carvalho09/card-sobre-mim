@@ -25,7 +25,7 @@ body .redes-sociais{
 .bloco{
     border: solid black 4px ;
     border-radius: 10px;
-    padding: 20px 100px 80px 100x;
+    padding: 20px 100px 80px 100px;
     margin: 20px auto;
     width: 30%;
     height: 750px;
@@ -47,7 +47,7 @@ header{
     border: rgb(0, 0, 0) solid 5px;
     border-radius: 20px;
     height: 120px;
-    weight: 120px;
+    width: 120px;
 
     
 }
